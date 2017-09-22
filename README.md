@@ -8,7 +8,7 @@ You'll find below few quick commands for executing this sample application insid
 5. Once you'll create and access to a project click: "Add to project"
 6. Select OpenJDK, then choose desired version
 7. Finally choose a name for your application and past your Github repo url
-8. This repo contains a lot of sample application, youìll find the one for OpenJDK on "undertow-servlet" directory, insert it in Openshift using the "advanced option" link
+8. This repo contains a lot of sample application, you'll find the one for OpenJDK on "undertow-servlet" directory, insert it in Openshift using the "advanced option" link
 
 That's all!
 
